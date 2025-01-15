@@ -1,6 +1,8 @@
 # Sticky Notes React
+<a href="https://sticky-notes-main.vercel.app">
+  <img src="demo.gif" />
+</a>
 
-<img src="demo.gif"/>
 
 ### Features
 
