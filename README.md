@@ -3,6 +3,10 @@
   <img src="demo.gif" />
 </a>
 
+# Tech Stack
+
+[![Tech Stack](https://skillicons.dev/icons?i=react,appwrite)](https://skillicons.dev)
+
 
 ### Features
 
